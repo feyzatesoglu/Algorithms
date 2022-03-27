@@ -1,0 +1,5 @@
+﻿  Subsets.cpp
+C:\Users\Feyza\source\repos\Recursive\Subsets.cpp(7,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Feyza\source\repos\Recursive\Subsets.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Feyza\source\repos\Recursive\Subsets.cpp(35,21): warning C4018: '<': signed/unsigned mismatch
+  Recursive.vcxproj -> C:\Users\Feyza\source\repos\Recursive\Debug\Recursive.exe
